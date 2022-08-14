@@ -1,6 +1,6 @@
 import Container from 'react-bootstrap/Container';
 import Button from 'react-bootstrap/Button';
-import imageBanner from '../../image/header-image.svg'
+import imageBanner from '../../image/header-image.png'
 import React, { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
